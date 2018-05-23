@@ -1,2 +1,3 @@
-# zadanie_18
-Chat
+# Simple chat
+
+Simple chat using React, ExpressJS, Socket.io, Webpack
